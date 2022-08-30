@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  display: flex;
+  justify-content: center;
+}
+main {
+  display: flex;
+  height: 69vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+main a {
+  font-size: 50px;
+}
+img {
+  width: 60%;
+  object-fit: cover;
+}
+
+footer {
+  text-align: center;
+}
